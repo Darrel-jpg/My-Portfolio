@@ -390,6 +390,7 @@ section{
 .card img {
     width: 50px;
     padding-bottom: 25%;
+    transition: transform 0.3s ease;
 }
 
 .card span {
@@ -418,6 +419,10 @@ section{
 .card:hover{
     transform: scale(1.1) !important;
     box-shadow: 0 0 15px var(--first-color);
+}
+
+.card:hover img{
+    transform: rotate(7deg);
 }
 
 .skills-container{
