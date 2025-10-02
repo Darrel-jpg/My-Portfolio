@@ -5,7 +5,7 @@ Teknologi yang Saya Gunakan
 
 Bahasa Pemrograman: Python, Java, C#, JavaScript
 
-Framework / Library: Flask, WinForms, React, TailwindCSS
+Framework / Library: Flask, WinForms, TailwindCSS
 
 Database: MySQL, SQLite, PostgreSQL
 
